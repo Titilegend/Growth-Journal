@@ -12,8 +12,8 @@ Kotlin: The programming language used for the app development.
 Firebase: Firebase Authentication, Firebase Realtime Database, and Cloud Firestore are utilized for user authentication and data storage.
 
 ## Installation
-Clone the repository to your local machine.
-Open the project in Android Studio.
-Set up Firebase project and configure the necessary authentication and database services.
-Update the Firebase configuration files (google-services.json) with your own project credentials.
-Build and run the app on an Android device or emulator.
+* Clone the repository to your local machine.
+* Open the project in Android Studio.
+* Set up Firebase project and configure the necessary authentication and database services.
+* Update the Firebase configuration files (google-services.json) with your own project credentials.
+* Build and run the app on an Android device or emulator.
